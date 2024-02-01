@@ -15,4 +15,4 @@ You can connect with me via email at [dickklouwer@icloud.com](mailto:your_email@
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dick-k-0193461a4/)
 
-Happy coding! 💻✨
+Happy coding! 💻
