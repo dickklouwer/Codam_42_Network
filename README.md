@@ -10,7 +10,7 @@ Codam 42 is an innovative coding school where learning is self-paced, peer-drive
 
 Here's a glimpse of some of the amazing projects I've worked on at Codam:
 
-1. **[Project Name]([link_to_project](https://github.com/dickklouwer/Codam_42_Network/tree/main/Rank_03/minishell_42))**: A brief description of what this project is about and what I learned from it.
+1. **[Project Name]((https://github.com/dickklouwer/Codam_42_Network/tree/main/Rank_03/minishell_42))**: A brief description of what this project is about and what I learned from it.
 
    ![Project Badge](badge_link_here) <!-- You can add a badge for your project if applicable -->
 
