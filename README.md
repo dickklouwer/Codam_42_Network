@@ -1,6 +1,6 @@
 # Codam 42 Projects 🚀
 
-Welcome to my Codam 42 projects repository! 👋 Here, you'll find a collection of coding challenges, exercises, and projects I've completed during my time at Codam. These projects have helped me sharpen my coding skills and grow as a developer. 🌟
+Welcome to my Codam 42 projects repository! 👋 Here, you'll find a collection of my coding projects I've completed during my time at Codam. These projects have helped me sharpen my coding skills and grow as a developer. 🌟
 
 ## What is Codam 42? 🎓
 
