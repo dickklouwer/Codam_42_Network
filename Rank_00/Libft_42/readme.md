@@ -1,5 +1,4 @@
-Libft.
+# 📚 Project Name: Libft
 
-Your very first own library.
-
-This project is your very first project as a student at 42. You will need to recode a few functions of the C standard library as well as some other utility functions that you will use during your whole cursus.
+## 🌟 Scope of the Project:
+Libft is your inaugural project at Codam 42, a pivotal step in your coding journey. In this project, you've built your very own C library, equipping you with essential coding skills. 🚀
