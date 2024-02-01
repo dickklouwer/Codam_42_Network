@@ -10,6 +10,6 @@ Feel free to explore each project for more details and code samples. If you have
 
 ## Contact Me 📧
 
-You can connect with me via email at [dickklouwer@icloud.com](mailto:your_email@example.com) or find me on [LinkedIn](your_linkedin_profile_link) if you'd like to collaborate, chat about coding, or share your thoughts.
+You can connect with me via email at [dickklouwer@icloud.com](mailto:your_email@example.com) or find me on [LinkedIn](linkedin.com/in/dick-k-0193461a4) if you'd like to collaborate, chat about coding, or share your thoughts.
 
 Happy coding! 💻✨
