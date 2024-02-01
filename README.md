@@ -10,7 +10,9 @@ Feel free to explore each project for more details and code samples. If you have
 
 ## Contact Me 📧
 
-You can connect with me via email at [dickklouwer@icloud.com](mailto:your_email@example.com) or find me on[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dick-k-0193461a4/)
+You can connect with me via email at [dickklouwer@icloud.com](mailto:your_email@example.com) or find me on LinkedIn
  if you'd like to collaborate, chat about coding, or share your thoughts.
+
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dick-k-0193461a4/)
 
 Happy coding! 💻✨
