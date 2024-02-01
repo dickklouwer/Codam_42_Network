@@ -1,7 +1,7 @@
-# 🚀  Project name: ft_printf
+# 🚀  Project Name: ft_printf
 The ft_printf project is a practical dive into reimplementing the C printf() function. It's a blend of understanding variadic functions and managing format specifiers.
 
-## 🎯 Project Essentials:
+## 🎯 Project Overview:
 Variadic Functions: Learn to handle an undefined number of arguments 🔄.
 
 Format Specifiers: Accurately process different data types, such as integers and strings, using format specifiers 🔍.
