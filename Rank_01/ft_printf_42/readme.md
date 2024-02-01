@@ -1,4 +1,4 @@
-##<b>Welcome to ft_printf!</b>
+## <b>Welcome to ft_printf!</b>
 
 Dive into the heart of C programming with our rendition of the classic printf() function. This project isn't just a coding exercise; it's an adventure into the depths of variadic functions in C, offering you a unique chance to fine-tune your programming finesse.
 
