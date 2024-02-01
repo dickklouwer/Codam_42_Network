@@ -1,4 +1,4 @@
-# 🚀 ft_printf Project Quick Dive
+# 🚀  Project name: ft_printf
 The ft_printf project is a practical dive into reimplementing the C printf() function. It's a blend of understanding variadic functions and managing format specifiers.
 
 ## 🎯 Project Essentials:
