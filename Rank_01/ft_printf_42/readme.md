@@ -1,4 +1,4 @@
-Welcome to ft_printf!
+<b>Welcome to ft_printf!</b>
 
 Dive into the heart of C programming with our rendition of the classic printf() function. This project isn't just a coding exercise; it's an adventure into the depths of variadic functions in C, offering you a unique chance to fine-tune your programming finesse.
 
@@ -12,6 +12,4 @@ Craftsmanship in Code: Discover the art of writing clean, well-structured, and e
 
 🛠️ Build Your Own ft_printf
 This journey will challenge you, push you, and ultimately grow you as a developer. Ready to begin? Let's create a version of printf() that's not just functional but a masterpiece of your coding portfolio.
-
-Join us on this exciting voyage through the realms of C programming. Your ft_printf awaits!
 
