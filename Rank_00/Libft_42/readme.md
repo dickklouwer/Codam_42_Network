@@ -1,9 +1,9 @@
 # 🚀 Project Name: Born2BeRoot
 
-## 🌐 Project Overview:
+### 🌐 Project Overview:
 The Born2BeRoot project is designed to introduce you to the world of virtualization in a practical way. In this project, you'll create your first virtual machine using VirtualBox, following specific instructions. By the project's end, you'll have the skills to set up your own operating system while adhering to strict rules. 🖥️🔧
 
-🛠️ Achievements:
+### 🛠️ Achievements:
 
 Virtual Machine Creation: You've successfully created your first virtual machine, gaining practical experience in virtualization. 🏗️💻
 
