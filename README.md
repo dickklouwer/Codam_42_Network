@@ -10,7 +10,7 @@ Codam 42 is an innovative coding school where learning is self-paced, peer-drive
 
 Here's a glimpse of some of the amazing projects I've worked on at Codam:
 
-1. **[Project Name](link_to_project)**: A brief description of what this project is about and what I learned from it.
+1. **[Project Name]([link_to_project](https://github.com/dickklouwer/Codam_42_Network/tree/main/Rank_03/minishell_42))**: A brief description of what this project is about and what I learned from it.
 
    ![Project Badge](badge_link_here) <!-- You can add a badge for your project if applicable -->
 
@@ -26,6 +26,6 @@ Feel free to explore each project for more details and code samples. If you have
 
 ## Contact Me 📧
 
-You can connect with me via email at [your_email@example.com](mailto:your_email@example.com) or find me on [LinkedIn](your_linkedin_profile_link) if you'd like to collaborate, chat about coding, or share your thoughts.
+You can connect with me via email at [dickklouwer@icloud.com](mailto:your_email@example.com) or find me on [LinkedIn](your_linkedin_profile_link) if you'd like to collaborate, chat about coding, or share your thoughts.
 
 Happy coding! 💻✨
