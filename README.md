@@ -6,22 +6,6 @@ Welcome to my Codam 42 projects repository! 👋 Here, you'll find a collection 
 
 Codam 42 is an innovative coding school where learning is self-paced, peer-driven, and free. It's a place where passion and dedication are the keys to success, and I've had the incredible opportunity to thrive in this unique learning environment. 📚
 
-## My Accomplishments 🏆
-
-Here's a glimpse of some of the amazing projects I've worked on at Codam:
-
-1. **[Project Name]((https://github.com/dickklouwer/Codam_42_Network/tree/main/Rank_03/minishell_42))**: A brief description of what this project is about and what I learned from it.
-
-   ![Project Badge](badge_link_here) <!-- You can add a badge for your project if applicable -->
-
-2. **[Project Name](link_to_project)**: Another exciting project showcasing my skills and achievements.
-
-   ![Project Badge](badge_link_here)
-
-3. **[Project Name](link_to_project)**: Yet another accomplishment worth mentioning.
-
-   ![Project Badge](badge_link_here)
-
 Feel free to explore each project for more details and code samples. If you have any questions or feedback, don't hesitate to reach out. I'm always eager to learn and improve! 📫
 
 ## Contact Me 📧
